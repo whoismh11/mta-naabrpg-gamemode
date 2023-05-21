@@ -1,12 +1,12 @@
 # MTA NaaB:RPG Gamemode v1.2.0
 GTA:SA [MTA](https://multitheftauto.com) NaaB:RPG advanced game-mode (fa-IR)
 
-گیم مد RPG سرور MTA بازی GTA SA (فارسی)
-
-گیم مد RPG (رول پلی) مخصوص سرور MTA بازی Grand Theft Auto: San Andreas
+گیم مد RPG (رول پلی) مخصوص سرور MTA بازی Grand Theft Auto: San Andreas (GTA:SA) (فارسی)
 
 - گیم مد کاملاً سالم و بدون خطا و باگ میباشد.
-- این گیم مد بر پایه گیم مد NG میباشد.
+- این گیم مد بر پایه گیم مد [NG](https://github.com/braydondavis/Nerd-Gaming-Public) میباشد.
+
+## آموزش راه اندازی (نحوه استفاده)
 
 ## امکانات و بروزرسانی ها
 
@@ -133,8 +133,5 @@ GTA:SA [MTA](https://multitheftauto.com) NaaB:RPG advanced game-mode (fa-IR)
 6. دریافت $1500 اضافه در هر ساعت.
 7. 50% تخفیف در زمان زندان.
 
-## نحوه استفاده
-
-
 ## مشارکت
-- [Discord](https://discord.gg/2JjvhAk)
+- [دیسکورد](https://discord.gg/2JjvhAk)
