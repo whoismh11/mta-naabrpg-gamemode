@@ -1,0 +1,16 @@
+<help>
+House System by MH11
+=================================================
+Description:
+This is a House System resource. It allows you to build a house in any place and with any interior you want. Other players can buy your houses.
+
+The House System includes:
+- User-friendly GUI.
+- Buying a house.
+- Key-protection. You can set your own key, so nobody can enter inside your house!
+- Selling a house at half-price of it's price.
+- Setting a new owner (if you wanna make a 'little' present for somebody :P)
+- Destroying an existing house. (admins only!)
+
+If you wanna see all the houses on your radar, HOLD the 'I' key. Green house icon means that there is no owner in this house yet, the Red one shows that this house is already occupied by someone.
+</help>

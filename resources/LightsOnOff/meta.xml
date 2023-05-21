@@ -1,0 +1,5 @@
+<meta>
+<info name="LightsOnOff" version="1.0" author="MH11" type="script" />
+
+<script src = "s.lua" type = "server" />
+</meta>

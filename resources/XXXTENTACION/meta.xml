@@ -1,0 +1,9 @@
+<meta>
+	<info name="Map XXXTENTACION Graffiti" version="1.0" author="MH11" type="Map" />
+	
+	<download_priority_group>1</download_priority_group>
+	
+	<script src="client.lua" type="client" />
+	
+	<file src="XXXTentacion.txd" type="client" />
+</meta>

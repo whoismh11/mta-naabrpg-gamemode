@@ -1,0 +1,8 @@
+<meta>
+    <info name="Gym System" version="1.0" author="MH11" type="script" />
+	
+	<oop>true</oop>
+	
+    <script src="walk_style_c.lua" type="client" />
+    <script src="server.lua" type="server" />
+</meta>

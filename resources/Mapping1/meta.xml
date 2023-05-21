@@ -1,0 +1,16 @@
+<meta>
+    <info name="Map Gas Station" version="2.0" author="MH11" type="map" />
+	
+    <map src="POSTO-FINAL.map" dimension="0" />
+	
+    <script src="mod.lua" type="client" />
+	<script src="server.luac" type="server" />
+	
+    <file src="data/oldgarage_sfse.txd" /> 
+    <file src="data/hubint1_sfse.txd" />
+    <file src="data/4730.txd" />
+    <file src="data/2657.txd" />
+    <file src="data/2697.txd" />
+    <file src="data/barrio1_lae.txd" />
+    <file src="data/wshxrefpump.txd" />	
+</meta>

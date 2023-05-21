@@ -1,0 +1,5 @@
+<meta>
+<info name="Smoke Object" version ="1.0" author="MH11" type="script" />
+
+    <script src="smoke.lua" />
+</meta>

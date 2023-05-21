@@ -1,0 +1,15 @@
+<meta>
+    <info name="Login Panel" version="1.1" author="MH11" type="script" />
+	
+    <script src="client.lua" type="client" />
+    <script src="server.lua" type="server" />
+    <script src="intro.lua" type="client" />
+	
+    <file src="files/check.png" />
+    <file src="files/logo.png" />
+    <file src="files/back.png" />
+    <file src="files/click.mp3" />
+    <file src="files/song.mp3" />
+	
+    <export function="isClientLoggedin" type="client" />
+</meta>

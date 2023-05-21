@@ -1,0 +1,5 @@
+<meta>
+	<info name="Player Peak" version="1.0" author="MH11" type="script" />
+	
+	<script src="peak_s.lua"  type="server" />
+</meta>

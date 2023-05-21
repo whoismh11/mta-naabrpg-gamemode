@@ -1,0 +1,5 @@
+<meta>
+	<info name="Vehicle Speed Change" version ="1.0" author="MH11" type="script" />
+	
+    <script src="speed.lua" type="server" />
+</meta>

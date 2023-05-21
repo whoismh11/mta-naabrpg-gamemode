@@ -1,0 +1,37 @@
+<meta>
+    <info name="Police" version="1.0" author="MH11" type="script" />
+	
+    <script src="panel_c.lua" type="client" />
+    <script src="panel_s.lua" type="server" />
+    <script src="jail_c.lua" type="client" />
+    <script src="jail_s.lua" type="server" />
+	<script src="mapping_c.lua" type="client" />
+	
+    <export function="jailPlayer" />
+    <export function="unjailPlayer" />
+    <export function="isPlayerJailed" />
+    <export function="getJailedPlayers" />
+    <export function="outputDispatchMessage" type="server" />
+    <export function="outputDispatchMessage" type="client" />
+	<export function="isPlayerJailed" type="client" />
+	
+	<settings>
+		<setting
+			name="*JAIL_WARP_LOCATION"
+			value="1881.57,-1077.24,1357.5"
+			accept="Format: x,y,z"
+			description="The location a player will be warped to when jailed by a cop" />
+			
+		<setting
+			name="*JAIL_WARP_ADMIN_LOCATION"
+			value="1829.46,-1064.47,1356.84"
+			accept="Format: x,y,z"
+			description="The location the player will be warped to when jailed by an admin" />
+			
+		<setting
+			name="*JAIL_WARP_RELEASE_LOCATION"
+			value="1543.32,-1675.6,13.56"
+			accept="Format: x,y,z"
+			description="The location the player will be warped to when release from jail" />
+	</settings>
+</meta>

@@ -1,0 +1,13 @@
+<meta>
+    <info name="Map Hollywood" version="1.0" author="MH11" type="map" />
+	
+    <map src="MPG_Map.map" dimension="0" />
+	
+	<script src='MPG_C.lua' type='client' />
+	<script src="mapEditorScriptingExtension_s.lua" type="server" />
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false" />
+	
+	<file src='MPG_Hollywood.txd' type='client' />
+	<file src='MPG_Hollywood.dff' type='client' />
+	<file src='MPG_Hollywood.col' type='client' />
+</meta>

@@ -1,0 +1,12 @@
+<meta>
+	<info name="Lottery" version="1.0" author="MH11" type="script" />
+	
+	<script src="client.lua" type="client" />
+	<script src="server.lua" />
+	
+	<file src="icon.png" />
+	
+	<export function="getLotteryTimer" />
+	<export function="generateNextLottery" />
+	<export function="getLotteryWinningNumber" />
+</meta>

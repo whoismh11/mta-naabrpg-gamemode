@@ -1,0 +1,6 @@
+<meta>
+	<info name="Glue"  version="1.0" author="MH11" type="script" />
+	
+	<script src="glue.lua" type="client" />
+	<script src="glueS.lua" type="server" />
+</meta>

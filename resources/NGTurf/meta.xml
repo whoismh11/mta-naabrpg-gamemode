@@ -1,0 +1,16 @@
+<meta>
+	<info name="Turfing System" version="1.0" author="MH11" type="script" />
+	
+	<script src="server.lua" type="server" />
+	<script src="client.lua" type="client" />
+	
+	<export function="turfLocs" />
+	<export function="setTurfOwner" />
+	<export function="saveTurfs" />
+	<export function="updateTurfGroupColor" />
+	
+	<settings>
+		<setting name="*PAYOUT_TIME" value="30" desc="Payout timer in minutes" />
+		<setting name="*PAYOUT_CASH" value="700" desc="Money per group member per turf" />
+	</settings>
+</meta>

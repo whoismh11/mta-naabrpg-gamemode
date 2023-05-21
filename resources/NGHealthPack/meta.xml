@@ -1,0 +1,13 @@
+<meta>
+    <info name="Health Packs" version="1.0" author="MH11" type="script" />
+	
+	<oop>true</oop>
+	
+    <script src="pack_c.lua" type="client" />
+    <script src="pack_s.lua" type="server" />
+    
+	<file src="pack.png" />
+	
+    <export function="useHealthPack" type="client" />
+    <export function="useHealthPack" type="server" />
+</meta>

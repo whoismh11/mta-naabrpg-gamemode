@@ -1,0 +1,6 @@
+<meta>
+    <info name="Countdown" version="1.0" author="MH11" type="script" />
+	
+	<script src="utils_client.lua" type="client" />
+    <script src="client.lua" type="client" />
+</meta>

@@ -1,0 +1,10 @@
+<meta>
+	<info name="Punish Panel" version="1.0" author="MH11" type="script" />
+	
+	<oop>true</oop>
+	
+	<script src="panel_s.lua" type="server" />
+	<script src="panel_c.lua" type="client" />
+	
+	<export function="outputPlayerPunishLog" />
+</meta>

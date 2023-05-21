@@ -1,0 +1,8 @@
+<meta>
+    <info name="Map Town Hall" version="1.0" author="MH11" type="map" />
+	
+    <map src="map-PrefeituraV2.map" dimension="0" />
+	
+    <script src="mapEditorScriptingExtension_s.lua" type="server" />
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false" />
+</meta>

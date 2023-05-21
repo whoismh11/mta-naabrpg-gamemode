@@ -1,0 +1,48 @@
+<meta>
+    <info name="Player Functions" version="1.0" author="MH11" type="script" />
+    
+	<!-- Server -->
+	<script src="server/antiafk.lua" />
+	<script src="server/blipfix.lua" />
+    <script src="server/teams.lua" />
+    <script src="server/money.lua" />
+    <script src="server/playtime.lua" />
+    <script src="server/functions.lua" />
+    <script src="server/downloadtext.lua" />
+    <script src="server/math.lua" />
+    <script src="server/kills_deaths.lua" />
+	<script src="server/kill_s.lua" />
+	<script src="server/eject.lua" />
+    <export function="getPlayerPlaytime" />
+    <export function="setPlayerPlaytime" />
+    <export function="deletePlayerPlaytime" />
+    <export function="setTeam" />
+    <export function="isTeamLaw" />
+    <export function="getPlayerFromNamePart" />
+    <export function="getPlayerFromAcocunt" />
+    <export function="getRunningMathEquation" />
+	
+	<!-- Client -->
+    <script src="client/hudmods.lua" type="client" />
+    <script src="client/cursor.lua" type="client" />
+    <script src="client/moneylog.lua" type="client" />
+    <script src="client/waypoint.lua" type="client" />
+    <script src="client/downloadFinish.lua" type="client" />
+	<script src="client/kill_c.lua" type="client" />
+	<script src="client/playerblips.lua" type="client" />
+	<script src="client/sounds.lua" type="client" />
+	<file src="files/click.mp3" />
+	<file src="files/waypoint.png" />
+    <file src="files/KOMIKAX.ttf" />
+    <export function="isClientCursorShowing" type="client" />
+    <export function="outputDxLog" type="client" />
+    <export function="createWaypointLoc" type="client" />
+    <export function="waypointUnlocate" type="client" />
+    <export function="waypointIsTracking" type="client" />
+    <export function="setWaypointAttachedToElement" type="client" />
+	
+	<!-- Shared -->
+    <script src="shared/getdate.lua" type="shared" />
+    <export function="getToday" type="client" />
+    <export function="getToday" type="server" />
+</meta>

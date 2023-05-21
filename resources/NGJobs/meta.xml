@@ -1,0 +1,63 @@
+<meta>
+    <info name="Jobs" version="1.0" author="MH11" type="script" />
+	
+    <oop>true</oop>
+	
+	<!-- Core scripts -->
+    <script src="core_client.lua" type="client" />
+    <script src="core_server.lua" type="server" />
+	<script src="mods_c.lua" type="client" />
+	
+	<!-- Core exports -->
+    <export function="addPlayerToJobDatabase" />
+    <export function="updateJobColumn" />
+    <export function="getJobColumnData" />
+    <export function="setPlayerJob" />
+    <export function="create3DText" />
+    <export function="create3DText" type="client" />
+    <export function="updateRank" />
+    <export function="getJobRankTable" />
+    
+	<!-- Criminal activities -->
+    <script src="criminal/vehicle_theft.lua" type="server" />
+    <script src="criminal/vehicle_theft_c.lua" type="client" />
+    <script src="criminal/weapons_s.lua" type="server" />
+	<script src="criminal/drug_factory_c.lua" type="client" />
+	<script src="criminal/drug_factory_s.lua" type="server" />
+    
+	<!-- Community jobs -->
+		<!-- Mechanic -->
+		<script src="community/mechanic/client.lua" type="client" />
+		<script src="community/mechanic/server.lua" type="server" />
+		
+		<!-- Fisherman job -->
+		<script src="community/fisherman/client.lua" type="client" />
+		<script src="community/fisherman/server.lua" type="server" />
+		
+		<!-- Pilot job -->
+		<script src="community/pilot/pilot_c.lua" type="client" />
+		<script src="community/pilot/pilot_s.lua" type="server" />
+		
+		<!-- Stunter job -->
+		<script src="community/stunter/stunt_c.lua" type="client" />
+
+	<!-- Law jobs -->
+		<!-- Police officer -->
+		<script src="law/general/wanted_s.lua" type="server" />
+		<script src="law/general/wanted_c.lua" type="client" />
+		<script src="law/general/arrest_server.lua" type="server" />
+		<script src="law/general/arrest_client.lua" type="client" />
+		
+		<!-- Detective job -->
+		<script src="law/detective/detective_s.lua" type="server" />
+		<script src="law/detective/detective_c.lua" type="client" />
+	
+	<!-- Medic job -->
+	<script src="emergency/medic/medic_s.lua" type="server" />
+    <script src="emergency/medic/medic_c.lua" type="client" />
+	
+	<!-- Asset files -->
+		<!-- Modded models & textures -->
+		<file src="assets/mods/17.txd" />
+		<file src="assets/mods/17.dff" />
+</meta>

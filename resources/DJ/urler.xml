@@ -1,0 +1,19 @@
+﻿<root>
+	<radio name="Radio Javan" URL="http://74.115.215.36" type="1" />
+	<radio name="RDS Radio" URL="https://icstream.rds.radio/rds" type="1" />
+	<radio name="Radio Farda" URL="http://198.178.123.20:10264/listen.pls" type="1" />
+	<radio name="DEFJAY" URL="https://icepool.silvacast.com/DEFJAY.mp3" type="1" />
+	<radio name="KISS FM" URL="https://stream-kiss.planetradio.co.uk/kissnational.aac" type="1" />
+	<radio name="KISSTORY" URL="https://stream-kiss.planetradio.co.uk/kissnational.aac" type="1" />
+	<radio name="Hitsradio" URL="https://17563.live.streamtheworld.com/977_HITS.mp3" type="1" />
+	<radio name="Metro FM" URL="http://provisioning.streamtheworld.com/pls/METRO_FMAAC.pls" type="1" />
+	<radio name="JOY FM" URL="http://provisioning.streamtheworld.com/pls/JOY_FMAAC.pls" type="1" />
+	<radio name="54House FM" URL="http://www.vtuner.com/vtunerweb/mms/m3u31725.m3u" type="1" />
+	<radio name="Super FM" URL="http://provisioning.streamtheworld.com/pls/SUPER_FMAAC.pls" type="1" />
+	<radio name="JoyTürk FM" URL="http://provisioning.streamtheworld.com/pls/JOY_TURKAAC.pls" type="1" />
+	<radio name="Radyo POP" URL="http://80.radyopop.com/;?1406124248788.mp3" type="1" />
+	<radio name=".977" URL="http://www.977music.com/tunein/web/80s3.asx" type="1" />
+	<radio name="Radio" URL="http://www.ah.fm/192k.m3u" type="1" />
+	<radio name="11 FM" URL="http://ip131.radyotelekom.com:9832/listen.pls" type="1" />
+	<radio name="Melodi FM" URL="http://sunucu.radyodinle.com:1215/listen.pls" type="1" />
+</root>

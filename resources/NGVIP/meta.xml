@@ -1,0 +1,32 @@
+<meta>
+	<info name="VIP System" version="1.0" author="MH11" type="script" />
+	
+	<script src="vip_s.lua" type="server" />
+	<script src="vip_c.lua" type="client" />
+	<script src="laser_s.lua" type="server" />
+	<script src="laser_c.lua" type="client" />
+	<script src="neon_s.lua" type="server" />
+    <script src="neon_c.lua" type="client" />
+	
+	<export function="checkPlayerVipTime" type="server" />
+	<export function="isDatePassed" type="server" />
+	<export function="getVipPayoutTimerDetails" type="server" />
+	<export function="getVipLevelFromName" type="server" />
+	<export function="getVipLevelFromName" type="client" />
+	<export function="isPlayerVIP" type="client" />
+	<export function="isPlayerVIP" type="server" />
+	
+    <file src="models/BlueNeonTube1.dff" />
+    <file src="models/GreenNeonTube1.dff" />
+    <file src="models/RedNeonTube1.dff" />
+    <file src="models/PinkNeonTube1.dff" />
+    <file src="models/YellowNeonTube1.dff" />
+    <file src="models/WhiteNeonTube1.dff" />
+    <file src="models/BlueNeonTube1.col" />
+    <file src="models/GreenNeonTube1.col" />
+    <file src="models/RedNeonTube1.col" />
+    <file src="models/PinkNeonTube1.col" />
+    <file src="models/YellowNeonTube1.col" />
+    <file src="models/WhiteNeonTube1.col" />
+    <file src="models/MatTextures.txd" />
+</meta>

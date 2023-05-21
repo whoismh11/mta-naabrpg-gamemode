@@ -1,0 +1,11 @@
+<meta>
+	<info name="Warp Manager" version="1.0" author="MH11" type="script" />
+	
+	<oop>true</oop>
+	
+	<script src="warps_c.lua" type="client" />
+	<script src="warps_s.lua" type="server" />
+
+	<!-- exports -->
+	<export function="makeWarp" type="client" />
+</meta>

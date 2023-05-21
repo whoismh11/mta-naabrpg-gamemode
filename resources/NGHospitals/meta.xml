@@ -1,0 +1,8 @@
+<meta>
+	<info name="Hospitals" version="1.0" author="MH11" type="script" />
+	
+	<script src="respawn_c.lua" type="client" />
+	<script src="respawn_s.lua" type="server" />
+	
+	<export function="isClientDead" type="client" />
+</meta>

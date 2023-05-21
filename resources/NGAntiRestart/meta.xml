@@ -1,0 +1,7 @@
+<meta>
+	<info name="Anti Restart Recource" version="1.0" author="MH11" type="script" />
+	
+	<script src="spawners.lua" type="server" />
+	
+	<export function="createPlayerVehicle" />
+</meta>

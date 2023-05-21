@@ -1,0 +1,5 @@
+<meta>
+    <info name="Nitro Hud" version="1.0.1" author="MH11" type="script" />
+	
+    <script src="client.lua" type="client" />
+</meta>

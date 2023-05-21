@@ -1,0 +1,10 @@
+<meta>
+    <oop>true</oop>
+	
+    <info name="Map Hospital" version="1.0" author="MH11" type="map" />
+	
+    <map src="map_Hospital_Central.map" dimension="0" />
+	
+    <script src="mapEditorScriptingExtension_s.lua" type="server" />
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false" />
+</meta>

@@ -1,0 +1,32 @@
+<meta>
+	<info name="Vehicles" version="1.0" author="MH11" type="script" />
+	
+	<script src="hud_c.lua" type="client" />
+	<script src="cruise.lua" type="client" />
+	<export function="getVehicleSpeed" type="client" />
+	
+	<script src="vehicles/cc.lua" type="server" />
+	<script src="vehicles/policelights.lua" type="client" />
+	<script src="vehicles/shops_data.lua" type="shared" />
+	<script src="vehicles/shops_s.lua" type="server" />
+	<script src="vehicles/shops_c.lua" type="client" />
+	<script src="vehicles/vehicles_s.lua" type="server" />
+	<export function="showVehicle" />
+	<export function="getAccountVehicles" />
+	<export function="getAllAccountVehicles" />
+	<export function="warpVehicleToPlayer" />
+	
+	<script src="locks/locks_c.lua" type="client" />
+	<script src="locks/locks.lua" type="server" />
+	<file src="locks/beep.mp3" />
+	
+	<script src="fuel/timer.lua" type="server" />
+	<script src="fuel/refuel.lua" type="client" />
+	<script src="fuel/locations.lua" type="shared" />
+	<file src="fuel/fuel_icon.png" />
+	
+	<!-- Exports for phone -->
+	<export function="SetVehicleVisible" />
+	<export function="recoverVehicle" />
+	<export function="sellVehicle" />
+</meta>

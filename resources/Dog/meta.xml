@@ -1,0 +1,38 @@
+<meta>
+	<info name="Dog Pet" version="1.1.1" author="MH11" type="script" />
+	
+	<script src="server.lua" type="server" />
+	<script src="client.lua" type="client" />
+	
+	<file src="skins/dff/germansheperd.dff" />
+	<file src="skins/dff/pitbull1.dff" />
+	<file src="skins/dff/pitbull2.dff" />
+	<file src="skins/dff/goldenretriever.dff" />
+	<file src="skins/dff/rottweiler.dff" />
+	
+	<file src="skins/txd/germansheperdblackbrown.txd" />
+	<file src="skins/txd/germansheperdblackwhite.txd" />
+	<file src="skins/txd/germansheperdblack.txd" />
+	
+	<file src="skins/txd/pitbullbrown.txd" />
+	<file src="skins/txd/pitbullwhite.txd" />
+	<file src="skins/txd/pitbullgrey.txd" />
+	<file src="skins/txd/pitbullblackwhite.txd" />
+		
+	<file src="skins/txd/goldenretrieverbrown.txd" />
+	<file src="skins/txd/goldenretrieverwhite.txd" />
+	
+	<file src="skins/txd/rottweiler.txd" />
+		
+	<file src="textures/sheperd.png" />
+	<file src="textures/rottweiler.png" />
+	<file src="textures/pitbull.png" />
+	<file src="textures/goldenretriever.png" />
+	<file src="textures/button.png" />
+	<file src="textures/buttonfalse.png" />
+	<file src="textures/male.png" />
+	<file src="textures/female.png" />
+	
+	<file src="sounds/growl.mp3" />
+    <file src="sounds/barklong.mp3" />
+</meta>

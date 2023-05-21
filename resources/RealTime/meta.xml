@@ -1,0 +1,9 @@
+<meta>
+	<info name="RealTime" version="1.0" author="MH11" type="script" />
+	
+	<script src="realtime.lua" type="server" />
+	
+	<settings>
+		<setting name="*offset" value="[0]" />
+	</settings>
+</meta>

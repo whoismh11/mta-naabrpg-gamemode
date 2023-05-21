@@ -1,0 +1,36 @@
+<meta>
+	<info name="Custom Skins" version="1.0" author="MH11" type="skin" />
+	
+    <script src="customskins.lua" type="client" />
+	
+    <file src="Joker.txd" />
+    <file src="Joker.dff" />
+	<file src="HarleyQuinn.txd" />
+    <file src="HarleyQuinn.dff" />
+	<file src="BillieEilish.txd" />
+    <file src="BillieEilish.dff" />
+	<file src="JohnWick.txd" />
+    <file src="JohnWick.dff" />
+	<file src="MH11.txd" />
+    <file src="MH11.dff" />
+	<file src="Helena.txd" />
+    <file src="Helena.dff" />
+	<file src="Mia.txd" />
+    <file src="Mia.dff" />
+	<file src="COP.txd" />
+    <file src="COP.dff" />
+	<file src="Marshmello.txd" />
+    <file src="Marshmello.dff" />
+	<file src="gtaonline1.txd" />
+    <file src="gtaonline1.dff" />
+	<file src="gtaonline2.txd" />
+    <file src="gtaonline2.dff" />
+	<file src="gtaonline3.txd" />
+    <file src="gtaonline3.dff" />
+	<file src="gtaonline4.txd" />
+    <file src="gtaonline4.dff" />
+	<file src="Sophia.txd" />
+    <file src="Sophia.dff" />
+	<file src="Staff.txd" />
+    <file src="Staff.dff" />
+</meta>

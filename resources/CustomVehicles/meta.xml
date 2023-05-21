@@ -1,0 +1,20 @@
+<meta>
+	<info name="Custom Vehicles" version="1.0" author="MH11" type="skin" />
+	
+    <script src="customvehicles.lua" type="client" />
+	
+    <file src="LamborghiniAventador.txd" />
+    <file src="LamborghiniAventador.dff" />
+	<file src="AudiR8GT.txd" />
+    <file src="AudiR8GT.dff" />
+	<file src="BentleyContinental.txd" />
+    <file src="BentleyContinental.dff" />
+	<file src="BugattiChiron.txd" />
+    <file src="BugattiChiron.dff" />
+	<file src="ChevroletCamaro.txd" />
+    <file src="ChevroletCamaro.dff" />
+	<file src="FordMustang.txd" />
+    <file src="FordMustang.dff" />
+	<file src="MercedesBenzAMG.txd" />
+    <file src="MercedesBenzAMG.dff" />
+</meta>

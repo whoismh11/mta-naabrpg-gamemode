@@ -1,0 +1,25 @@
+<meta>
+    <info name="Gravity Gun" version="1.2.5" author="MH11" type="script" />
+    <min_mta_version server="1.5.5-9.14060"></min_mta_version>
+    
+    <script src="ggun_s.lua" type="server" />
+    <script src="ggun_c.lua" type="client" />
+    <script src="ggun_fx.lua" type="client" />
+    <script src="ggun_toggle.lua" type="server" />
+    
+    <file src="models/ggun.dff" />
+    
+    <file src="textures/ggun.txd" />
+    <file src="textures/shotgspaicon.png" type="client" />
+    <file src="textures/shell.jpg" type="client" />
+    
+    <file src="shaders/texRepTra.fx" type="client" />
+    <file src="shaders/texRep.fx" type="client" />
+    <file src="shaders/texShell.fx" type="client" />
+    
+    <file src="sounds/drop.ogg" type="client" />
+    <file src="sounds/equip.ogg" type="client" />
+    <file src="sounds/fail.ogg" type="client" />
+    <file src="sounds/fire.ogg" type="client" />
+    <file src="sounds/pickup.ogg" type="client" />
+</meta>

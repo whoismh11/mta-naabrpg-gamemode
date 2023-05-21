@@ -1,0 +1,40 @@
+<meta>
+	<info name="Administration System" version="1.0" author="MH11" type="script" />
+	
+	<oop>true</oop>
+	
+	<script src="getpos.lua" type="client" />
+	<script src="god.lua" type="client" />
+	<script src="getstaff.lua" />
+	<script src="gostaff.lua" />
+	
+	<!-- Account Manager -->
+	<script src="aManager/Ban_c.lua" type="client" />
+	<script src="aManager/Vip_c.lua" type="client" />
+	<script src="aManager/confirm_c.lua" type="client" />
+	<script src="aManager/interface.lua" type="client" />
+	<script src="aManager/aServer.lua" type="server" />
+	<export function="openBanWindow" type="client" />
+	
+	<!-- Update & Report System -->
+	<script src="updates/client_core.lua" type="client" />
+	<script src="updates/client_reports.lua" type="client" />
+	<script src="updates/client_updates.lua" type="client" />
+	<script src="updates/server_reports.lua" type="server" />
+	<export function="getAllStaff" />
+	<export function="isPlayerStaff" />
+	<export function="isPlayerInACL" />
+	<export function="getOnlineStaff" />
+	<export function="getPlayerStaffLevel" />
+	<export function="removeAccount" http="true" />
+	
+	<!-- Bullets
+	<script src="bullets/explosive_c.lua" type="client" />
+	<script src="bullets/explosive_s.lua" type="server" /> -->
+	<script src="bullets/superpunch.lua" type="server" />
+	
+	<!-- skin -->
+	<!--<file src="skin/217.dff" />
+	<file src="skin/217.txd" />
+	<script src="skin/skin.lua" type="client" />-->
+</meta>

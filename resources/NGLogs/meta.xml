@@ -1,0 +1,12 @@
+<meta>
+    <info name="Logging System" version="1.0" author="MH11" type="script" />
+	
+    <!--<script src="setup.lua" />-->
+    <script src="output.lua" />
+	
+    <export function="outputPunishLog" />
+    <export function="outputActionLog" />
+    <export function="outputChatLog" />
+    <export function="outputServerLog" />
+    <export function="outputSQLLog" />
+</meta>

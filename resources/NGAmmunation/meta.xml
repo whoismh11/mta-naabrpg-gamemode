@@ -1,0 +1,11 @@
+<meta>
+    <info name="Ammu-Nation" version="1.1" author="MH11" type="script" />
+	
+    <oop>true</oop>
+	
+    <script src="client-side.lua" type="client" />
+    <script src="server-side.lua" type="server" />
+    
+    <script src="training/server.lua" type="server" />
+    <script src="training/client.lua" type="client" />
+</meta>

@@ -1,0 +1,137 @@
+<meta>
+	<info name="GTA:V Hud" version="2.0" author="MH11" type="script" />
+	
+	<file src="images/world.jpg" />
+	<file src="images/player.png" />
+	
+	<file src="images/blip/0.png" />
+	<file src="images/blip/1.png" />
+	<file src="images/blip/2.png" />
+	<file src="images/blip/3.png" />
+	<file src="images/blip/4.png" />
+	<file src="images/blip/5.png" />
+	<file src="images/blip/6.png" />
+	<file src="images/blip/7.png" />
+	<file src="images/blip/8.png" />
+	<file src="images/blip/9.png" />
+	<file src="images/blip/10.png" />
+	<file src="images/blip/11.png" />
+	<file src="images/blip/12.png" />
+	<file src="images/blip/13.png" />
+	<file src="images/blip/14.png" />
+	<file src="images/blip/15.png" />
+	<file src="images/blip/16.png" />
+	<file src="images/blip/17.png" />
+	<file src="images/blip/18.png" />
+	<file src="images/blip/19.png" />
+	<file src="images/blip/20.png" />
+	<file src="images/blip/21.png" />
+	<file src="images/blip/22.png" />
+	<file src="images/blip/23.png" />
+	<file src="images/blip/24.png" />
+	<file src="images/blip/25.png" />
+	<file src="images/blip/26.png" />
+	<file src="images/blip/27.png" />
+	<file src="images/blip/28.png" />
+	<file src="images/blip/29.png" />
+	<file src="images/blip/30.png" />
+	<file src="images/blip/31.png" />
+	<file src="images/blip/32.png" />
+	<file src="images/blip/33.png" />
+	<file src="images/blip/34.png" />
+	<file src="images/blip/35.png" />
+	<file src="images/blip/36.png" />
+	<file src="images/blip/37.png" />
+	<file src="images/blip/38.png" />
+	<file src="images/blip/39.png" />
+	<file src="images/blip/40.png" />
+	<file src="images/blip/41.png" />
+	<file src="images/blip/42.png" />
+	<file src="images/blip/43.png" />
+	<file src="images/blip/44.png" />
+	<file src="images/blip/45.png" />
+	<file src="images/blip/46.png" />
+	<file src="images/blip/47.png" />
+	<file src="images/blip/48.png" />
+	<file src="images/blip/49.png" />
+	<file src="images/blip/50.png" />
+	<file src="images/blip/51.png" />
+	<file src="images/blip/52.png" />
+	<file src="images/blip/53.png" />
+	<file src="images/blip/54.png" />
+	<file src="images/blip/55.png" />
+	<file src="images/blip/56.png" />
+	<file src="images/blip/57.png" />
+	<file src="images/blip/58.png" />
+	<file src="images/blip/59.png" />
+	<file src="images/blip/60.png" />
+	<file src="images/blip/61.png" />
+	<file src="images/blip/62.png" />
+	<file src="images/blip/63.png" />
+	
+	<file src="images/0.png" />
+	<file src="images/1.png" />
+	<file src="images/2.png" />
+	<file src="images/3.png" />
+	<file src="images/4.png" />
+	<file src="images/5.png" />
+	<file src="images/6.png" />
+	<file src="images/7.png" />
+	<file src="images/8.png" />
+	<file src="images/9.png" />
+	<file src="images/10.png" />
+	<file src="images/11.png" />
+	<file src="images/12.png" />
+	<file src="images/14.png" />
+	<file src="images/15.png" />
+	<file src="images/16.png" />
+	<file src="images/17.png" />
+	<file src="images/18.png" />
+	<file src="images/22.png" />
+	<file src="images/23.png" />
+	<file src="images/24.png" />
+	<file src="images/25.png" />
+	<file src="images/26.png" />
+	<file src="images/27.png" />
+	<file src="images/28.png" />
+	<file src="images/29.png" />
+	<file src="images/30.png" />
+	<file src="images/31.png" />
+	<file src="images/32.png" />
+	<file src="images/33.png" />
+	<file src="images/34.png" />
+	<file src="images/35.png" />
+	<file src="images/36.png" />
+	<file src="images/37.png" />
+	<file src="images/38.png" />
+	<file src="images/39.png" />
+	<file src="images/40.png" />
+	<file src="images/41.png" />
+	<file src="images/42.png" />
+	<file src="images/43.png" />
+	<file src="images/44.png" />
+	<file src="images/46.png" />
+	
+	<file src="images/wanted_a.png" />
+	<file src="images/wanted.png" />
+	
+	<file src="images/cameraCrosshair.png" />
+	<file src="images/font1.png" />
+	<file src="images/font2.png" />
+	<file src="images/siteM16.png" />
+	<file src="images/siterocket.png" />
+	<file src="images/SNIPERcrosshair.png" />
+	
+	<file src="texture_replace.fx" />
+	
+	<file src="font/draw.ttf" />
+	
+	<script src="utility.lua" type="client" />
+	<script src="GUI.lua" type="client" />
+	<script src="settings.lua" type="client" />
+	<script src="engine.lua" type="client" />
+	<script src="crosshair.lua" type="client" />
+	<script src="radar.lua" type="client" />
+	<script src="draw.lua" type="client" />
+	<script src="server.lua" type="server" />
+</meta>

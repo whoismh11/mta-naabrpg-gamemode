@@ -1,0 +1,16 @@
+<meta>
+    <info name="Shops" version="1.0" author="MH11" type="script" />
+    
+	<!-- Pay N' Spray Shop -->
+	<script src="pns/pns_s.lua" />
+    <script src="pns/pns_c.lua" type="client" />
+	
+	<!-- Skin shop -->
+	<script src="skin//skin_s.lua" />
+    <script src="skin/skin_c.lua" type="client" />
+	
+	<!-- User Shop -->
+	<script src="user_shop/user_shop_s.lua" />
+	<script src="user_shop/user_shop_c.lua" type="client" />
+	<script src="user_shop/user_shop_shared.lua" type="shared" />
+</meta>

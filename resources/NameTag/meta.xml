@@ -1,0 +1,16 @@
+<meta>
+	<info name="Name Tag" version="1.0" author="MH11" type="script" />
+	
+	<script src="cromusC.lua" type="client" cache="false" />
+	<script src="cromusS.lua" type="server" />
+	<script src="cromusIDsystem.lua" cache="false" />
+	
+	<file src="gfx/font.ttf" />
+	<file src="gfx/colete.png" />
+	<file src="gfx/false.png" />
+	<file src="gfx/vida.png" />
+	<file src="gfx/level_typing.png" type="client" />
+	
+    <export function="getIDFromPlayer" type="server" />
+	<export function="getPlayerFromID" type="server" />
+</meta>

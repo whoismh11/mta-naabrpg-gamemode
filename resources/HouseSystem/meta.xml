@@ -1,0 +1,25 @@
+<meta>
+  <info name="House System" version="1.1.0" author="MH11" type="script" />
+  
+  <script src="core/core_server.lua" type="server" />
+  <script src="core/core_client.lua" type="client" />
+  <script src="core/interiors.lua"   type="server" />
+  
+  <file src="images/script/house_.png" />
+  <file src="images/script/icon_buy.png" />
+  <file src="images/script/icon_sale.png" />
+  <file src="images/script/icon_key.png" />
+  <file src="images/script/icon_destroy.png" />
+  <file src="images/script/icon_newowner.png" />
+  <file src="images/script/icon_enter.png" />
+  
+  <file src="sounds/click_confirm.wav" />
+  <file src="sounds/click_icon.wav" />
+  
+  <config src="help.xml" type="client" />
+  
+  <settings>
+    <setting name="*playerHouseCounter" value="3"	accept="0-9" desc="How many houses can player have at the same time." />
+    <setting name="*keyLength" value="4" accept="0-9" desc="How many characters must be in house key." />
+  </settings>
+</meta>

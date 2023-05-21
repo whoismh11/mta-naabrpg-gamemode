@@ -1,0 +1,8 @@
+<meta>
+    <info name="Information" version="1.0" author="MH11" type="script" />
+	
+    <oop>true</oop>
+	
+    <script src="data_c.lua" type="client" />
+    <script src="info_c.lua" type="client" />
+</meta>

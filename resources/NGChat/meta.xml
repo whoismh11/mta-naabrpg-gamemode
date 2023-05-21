@@ -1,0 +1,9 @@
+<meta>
+	<info name="Chat" version="1.0" author="MH11" type="script" />
+	
+	<script src="server.lua" />
+	
+	<export function="outputLawMessage" />
+	<export function="getChatLine" />
+	<export function="getPlayerTags" />
+</meta>

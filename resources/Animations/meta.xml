@@ -1,0 +1,5 @@
+<meta>
+	<info name="Animations" version ="1.0" author="MH11" type="script" />
+	
+    <script src="animations.lua" />
+</meta>

@@ -1,0 +1,18 @@
+<meta>
+	<info name="Custom Weapons" version="1.0" author="MH11" type="skin" />
+	
+    <script src="customweapons.lua" type="client" />
+
+    <file src="GenjiKatana.txd" />
+    <file src="GenjiKatana.dff" />
+	<file src="AK47Dragon.txd" />
+    <file src="AK47Dragon.dff" />
+	<file src="Knife.txd" />
+    <file src="Knife.dff" />
+	<file src="Panje.txd" />
+    <file src="Panje.dff" />
+	<file src="Flower.txd" />
+    <file src="Flower.dff" />
+	<file src="sniper.txd" />
+    <file src="sniper.dff" />
+</meta>

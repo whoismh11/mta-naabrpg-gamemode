@@ -1,0 +1,17 @@
+<meta>
+	<info name="GameMode" version="1.1.4" author="MH11" type="script" />
+	
+	<oop>true</oop>
+	
+	<script src="ng_global.shared.lua" type="shared" />
+	<script src="ng_development.shared.lua" type="shared" />
+	
+	<export function="isDeveloper" type="client" />
+	<export function="isGameInDevelopment" type="client" />
+	
+	<export function="isDeveloper" type="server" />
+	<export function="isGameInDevelopment" type="server" />
+	
+	<export function="resourceStart" type="client" />
+	<export function="resourceStart" type="server" />
+</meta>

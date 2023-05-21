@@ -1,0 +1,5 @@
+<meta>
+	<info name="FPS Script" version="1.0" author="MH11" type="script" />
+	
+	<script src="draw_c.lua" type="client" />
+</meta>

@@ -1,0 +1,11 @@
+<meta>
+	<info name="Inventory" version="1.0" author="MH11" type="script" />
+	
+	<oop>true</oop>
+	
+	<script src="drop_amount_c.lua" type="client" />
+	<script src="inven-client.lua" type="client" />
+	<script src="inven-server.lua" type="server" />
+	
+	<file src="none.png" />
+</meta>

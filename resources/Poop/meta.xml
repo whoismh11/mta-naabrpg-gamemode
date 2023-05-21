@@ -1,0 +1,10 @@
+<meta>
+	<info name="Poop" version="1.0" author="MH11" type="misc" />
+	
+	<script src="server.lua" type="server" />
+	<script src="client.lua" type="client" />
+	
+	<file src="data/sound.mp3" />
+	<file src="data/dynamite.txd" />
+	<file src="data/dynamite.dff" />
+</meta>

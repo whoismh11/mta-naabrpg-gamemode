@@ -1,0 +1,5 @@
+<meta>
+	<info name="Dice" version="1.0" author="MH11" type="script" />
+	
+	<script src="main.lua" />
+</meta>

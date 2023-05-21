@@ -1,0 +1,22 @@
+﻿<meta>
+	<info name="Car Radio" version="1.0" author="MH11" type="script" />
+	
+	<script src="settings.lua" type="client" cache="false" />
+	<script src="client.lua" type="client" cache="false" />
+	<script src="utils.lua" type="client" cache="false" />
+	
+	<file type="client" src="Assets/assa.png" />
+	<file type="client" src="Assets/auto.png" />
+	<file type="client" src="Assets/barada.png" />
+	<file type="client" src="Assets/bg.png" />
+	<file type="client" src="Assets/blackstar.png" />
+	<file type="client" src="Assets/eplus.png" />
+	<file type="client" src="Assets/gop.png" />
+	<file type="client" src="Assets/jazz.png" />
+	<file type="client" src="Assets/los.png" />
+	<file type="client" src="Assets/off.png" />
+	<file type="client" src="Assets/record.png" />
+	<file type="client" src="Assets/rock.png" />
+	<file type="client" src="Assets/shanson.png" />
+	<file type="client" src="Assets/trap.png" />
+</meta>

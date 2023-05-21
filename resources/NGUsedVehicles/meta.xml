@@ -1,0 +1,8 @@
+<meta>
+	<info name="Used Vehicle Shop" version="1.0" author="MH11" type="script" />
+	
+	<script src="c_used_vehicles.lua" type="client" />
+	<script src="c_sell_vehicle.lua" type="client" />
+	<script src="confirm_c.lua" type="client" />
+	<script src="s_used_vehicles.lua" type="server" />
+</meta>
