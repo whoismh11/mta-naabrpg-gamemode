@@ -8,6 +8,8 @@ GTA:SA [MTA](https://multitheftauto.com) NaaB:RPG advanced game-mode (fa-IR)
 
 ## آموزش راه اندازی (نحوه استفاده)
 
+بزودی...
+
 ## امکانات و بروزرسانی ها
 
 ### امکانات نسخه 1.0.0
