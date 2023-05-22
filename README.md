@@ -5,8 +5,8 @@ GTA:SA [MTA](https://multitheftauto.com) NaaB:RPG advanced game-mode (fa-IR)
 
 گیم مد RPG (رول پلی) مخصوص سرور Multi Theft Auto (MTA) بازی Grand Theft Auto: San Andreas (GTA:SA) (فارسی)
 
-- گیم مد کاملاً سالم و بدون خطا و باگ میباشد.
 - این گیم مد بر پایه گیم مد [NG](https://github.com/braydondavis/Nerd-Gaming-Public) میباشد.
+- گیم مد کاملاً سالم و بدون خطا و باگ میباشد.
 
 ## آموزش راه اندازی (نحوه استفاده)
 
